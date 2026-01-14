@@ -5,9 +5,10 @@
  * Comment déclarer une classe ?
  * Pour déclarer 
  * 1.Je commence par le mot-clé class
- * 2.Je donne un nom à la classe . Le nom de la classe doit commencer par une lettre majusucule
+ * 2.Je donne un nom à la classe . L²e nom de la classe doit commencer par une lettre majusucule
  * 3.Je définis les propriétes et les méthodes de la classe
  */
+
 
 //Ma classe personne
 class Personne{
